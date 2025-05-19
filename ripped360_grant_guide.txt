@@ -1,0 +1,551 @@
+Delray Beach CRA
+Grant Application Guide
+Multilingual Health & Fitness Platform
+
+Creating technology jobs and improving health outcomes in
+Delray Beach
+
+Prepared: May 2025
+
+Executive Summary
+Ripped360 is seeking a Site Development Assistance grant
+from the Delray Beach Community Redevelopment Agency to
+support the development of an innovative multilingual health
+and fitness platform. This technology solution addresses
+critical language barriers in healthcare and fitness, providing a
+comprehensive solution for diverse communities.
+Project Highlights:
+First multilingual fitness and health platform supporting
+five languages (English, Spanish, Haitian Creole, Chinese,
+Japanese)
+Created by Delray Beach entrepreneurs Tyrone Hayes and
+Duveuil Valcena
+Will create 10-12 technology jobs based in Delray Beach
+Addresses critical health disparities caused by language
+barriers
+Funding request: $50,000 for development, translation,
+and local office expansion
+
+Founded in 2019, RippedCity Inc has established roots in Delray
+Beach as a fitness apparel company. The Ripped360 platform
+represents a natural evolution of our mission to help people
+transform their lives through fitness, now making health and wellness
+accessible to everyone regardless of language barriers.
+
+Founder's Story
+Ripped360 was born from a powerful personal transformation
+journey and a partnership forged through shared passion for fitness
+and helping others.
+
+Tyrone Hayes: A Transformation Journey
+Tyrone Hayes began his fitness journey after struggling with obesity.
+Through dedication, sacrifice, and determination, he transformed his
+body and life through bodybuilding. This personal transformation
+became the foundation of his passion for helping others achieve their
+fitness goals.
+"My own struggle with weight and the transformation I achieved
+showed me that with the right guidance and determination, anyone
+can change their life through fitness. But I also recognized that many
+people face barriers to accessing quality fitness information,
+particularly when it's not available in their primary language." Tyrone Hayes
+
+Duveuil Valcena: Visual Storytelling
+Duveuil Valcena brought his expertise as a photographer to the
+partnership. His ability to capture and communicate the visual
+aspects of fitness transformation complemented Tyrone's personal
+experience.
+"As a photographer, I've always believed in the power of visual
+motivation. When people can see transformation, it becomes more
+real and attainable to them. Our partnership combines Tyrone's lived
+experience with my visual approach to create a comprehensive fitness
+solution." - Duveuil Valcena
+
+Creating RippedCity Inc
+In 2019, Tyrone and Duveuil joined forces to establish RippedCity Inc
+in Delray Beach, Florida. What began as a fitness apparel brand
+quickly grew into a community built around the values of sacrifice
+and determination. The company gained a loyal following throughout
+Palm Beach County.
+
+Evolution to Ripped360
+The concept for Ripped360 emerged from conversations with
+community members who struggled with language barriers when
+trying to follow fitness programs or understand supplement
+information. By creating a multilingual platform that bridges fitness
+and healthcare, Tyrone and Duveuil aim to make transformation
+accessible to everyone in their diverse community.
+
+Project Description
+Ripped360 is a comprehensive multilingual health and fitness
+platform designed to bridge the gap between physical fitness and
+healthcare management. Unlike typical fitness apps that focus solely
+on workout tracking, Ripped360 integrates health monitoring,
+medication safety, and nutrition guidance in five languages with
+cultural adaptations.
+
+Core Platform Features
+Fitness Tracking
+Customizable workout plans
+Exercise form guidance
+Progress tracking and visualization
+Video upload for technique analysis
+
+Health Integration
+Medication and supplement tracking
+Interaction warnings (color-coded system)
+Healthcare provider data sharing
+Medication timing optimization
+
+Nutritional Guidance
+Meal planning with cultural adaptations
+Barcode scanning for food tracking
+Calorie and macro tracking
+Recipe suggestions
+
+Community Support
+Achievements and challenges
+Progress sharing with community
+Local fitness events
+Group accountability
+
+Language Implementation
+Ripped360 will provide complete functionality in five languages, with
+cultural adaptations that go beyond mere translation:
+
+Language
+
+Community
+Served
+
+Cultural Adaptations
+
+English
+
+Primary language
+(69% of county)
+
+Standard fitness terminology
+
+Spanish
+
+23% of Palm
+Beach County
+
+Latin American nutritional
+preferences, culturally
+relevant motivation
+
+Haitian
+Creole
+
+4.5% of Palm
+Beach County
+
+Traditional Haitian wellness
+concepts, communityfocused motivation
+
+Chinese
+
+Growing Asian
+population
+
+Traditional Chinese Medicine
+concepts, balance-focused
+approach
+
+Japanese
+
+International
+residents and
+visitors
+
+Japanese wellness principles,
+precise instructional
+approach
+
+Technical Approach
+The platform will be developed as both a mobile application (iOS and
+Android) and a web platform, allowing access across all devices. The
+technology stack will include:
+Cross-platform development framework for mobile apps (React
+Native)
+Web front-end with responsive design (React.js)
+Secure cloud-based backend infrastructure
+HIPAA-compliant data storage for health information
+Integration with fitness wearables and health devices
+
+Community Impact
+Ripped360 addresses critical health disparities in the Delray Beach
+community by eliminating language barriers to fitness and health
+resources. Our platform will have measurable impacts on community
+health outcomes:
+
+31%
+
+59%
+
+of Palm Beach County
+residents speak a
+language other than
+English at home, creating
+barriers to health
+information
+
+of serious medical events
+involve language barriers
+contributing to
+medication
+misunderstandings
+
+3-4×
+
+$5.60
+
+lower health literacy
+scores for individuals with
+limited English proficiency
+
+saved in healthcare costs
+for every $1 invested in
+preventative health
+measures
+
+Health Equity Improvements
+By providing comprehensive health and fitness information in
+multiple languages, Ripped360 will:
+Reduce medication errors through proper instruction and tracking
+in users' primary languages
+Improve fitness participation rates among non-English speaking
+communities
+Enhance health literacy through accessible, culturally appropriate
+content
+Provide preventative health guidance to populations typically
+underserved by existing health technology
+Connect diverse users with healthcare providers through data
+sharing capabilities
+
+Support for Local Fitness Community
+Beyond direct health outcomes, Ripped360 will support the local
+fitness community by:
+Showcasing local fitness facilities within the app
+Promoting community fitness events in multiple languages
+Partnering with local health professionals for content creation
+Creating a digital platform that connects diverse communities
+through shared fitness goals
+
+Expected Community Outcomes:
+Increased fitness participation among non-English speakers
+(target: 30% increase)
+Reduced medication adherence issues (target: 25%
+improvement)
+Improved health literacy scores (target: 40% improvement)
+Greater engagement with preventative health measures
+(target: 35% increase)
+Enhanced community connections across language groups
+
+Economic Development
+Developing the Ripped360 platform will create significant economic
+benefits for Delray Beach through job creation, technology sector
+growth, and specialized workforce development.
+
+Job Creation
+The project will create 10-12 new positions based in Delray Beach:
+
+Position
+
+Quantity
+
+Salary
+Range
+
+Required Skills
+
+Mobile
+Developers
+
+3
+
+$75,000 $95,000
+
+React Native,
+iOS/Android
+expertise
+
+Web
+Developers
+
+2
+
+$70,000 $90,000
+
+React.js, front-end
+development
+
+Backend
+Engineers
+
+2
+
+$80,000 $100,000
+
+Node.js, database
+architecture
+
+Content
+Creators
+
+2
+
+$50,000 $65,000
+
+Fitness expertise,
+bilingual skills
+
+Language
+Specialists
+
+2
+
+$55,000 $70,000
+
+Translation, cultural
+adaptation
+
+$85,000 $105,000
+
+Tech project
+management,
+healthcare
+experience
+
+Project
+Manager
+
+1
+
+Local Contractor Opportunities
+In addition to direct hiring, the project will create opportunities for
+local contractors:
+Local marketing agencies for launch campaign
+Fitness professionals for content creation
+Healthcare consultants for medical accuracy
+Local photographers and videographers (leveraging Duveuil's
+expertise)
+Office renovation and technology infrastructure providers
+
+Technology Ecosystem Enhancement
+The development of Ripped360 will strengthen Delray Beach's
+growing technology sector by:
+Creating a flagship health technology company based in Delray
+Beach
+Developing specialized talent in multilingual technology
+development
+Establishing potential for technology partnerships with healthcare
+providers
+Creating exportable intellectual property developed in Delray
+Beach
+Building foundation for future technology ventures
+
+Economic Impact Summary:
+Direct Job Creation: 10-12 new technical positions
+Average Salary: $75,000 (well above county average)
+Annual Payroll Impact: Approximately $900,000
+Economic Multiplier: 2.3 (healthcare technology sector
+standard)
+Total Annual Economic Impact: $2.07 million
+
+Budget Request
+Ripped360 is requesting a Site Development Assistance grant of
+$50,000 from the Delray Beach CRA to support development of the
+platform and enhancement of our physical location within the CRA
+district.
+
+Budget Allocation
+Amount
+
+Description
+
+Benefit to CRA
+District
+
+Development
+Costs
+
+$20,000
+
+Initial mobile
+and web
+development
+
+Creation of
+technical jobs
+within district
+
+Translation
+Services
+
+$15,000
+
+Professional
+translation in 4
+languages
+
+Employment of
+local language
+specialists
+
+$10,000
+
+Workspace
+renovation for
+development
+team
+
+Physical
+improvement to
+CRA district
+property
+
+Technology
+Infrastructure
+
+$5,000
+
+Development
+equipment and
+networking
+
+Enhanced
+technology
+capabilities
+within district
+
+Total Request
+
+$50,000
+
+Category
+
+Office Space
+Enhancement
+
+Matching Contributions
+RippedCity Inc will provide the following matching contributions to
+the project:
+Existing office space in Delray Beach CRA district (valued at
+$24,000 annually)
+Founder time commitment (valued at $60,000)
+Existing computer equipment and software ($15,000)
+Marketing through established RippedCity Inc channels ($10,000
+value)
+Existing customer/community base for initial user testing
+
+Financial Sustainability
+The Ripped360 platform will achieve financial sustainability through:
+Freemium model with basic features free, premium tier at
+$9.99/month
+Projected conversion rate: 10% of users to premium (Year 1),
+growing to 20% (Year 3)
+Cross-promotion with RippedCity Inc apparel products
+Additional revenue streams including enterprise partnerships and
+content sponsorships
+
+Return on Investment for CRA:
+For every $1 of CRA funding, the project will generate
+approximately $40 in economic impact over 3 years
+Creation of high-paying technology jobs within the CRA
+district
+Physical improvement to CRA district property
+Enhanced technology presence in Delray Beach
+Improved health outcomes for CRA district residents
+
+Implementation Timeline
+The Ripped360 platform will be developed and launched using a
+phased approach over 12 months:
+
+Phase 1: Foundation Development (Months 1-3)
+Key activities during this phase:
+Establish development team and workspace in Delray Beach
+Develop core architecture with multilingual support
+Create user authentication and profile management
+Implement basic workout tracking functionality
+Complete English version of core features
+Milestone: Functional prototype in English
+
+Phase 2: Language Implementation (Months 46)
+Key activities during this phase:
+Professional translation of all content into Spanish and
+Haitian Creole
+Cultural adaptation of fitness guidance and nutrition
+recommendations
+User testing with local Spanish and Creole speakers
+Implementation of language-switching capability
+Quality assurance across languages
+Milestone: Three-language functionality (English, Spanish,
+Haitian Creole)
+
+Phase 3: Health Features & Asian Languages
+(Months 7-9)
+Key activities during this phase:
+Implementation of medication and supplement tracking
+Development of interaction warning system
+Integration of health data sharing capabilities
+Addition of Chinese and Japanese language support
+Cultural adaptation for Asian users
+Milestone: Complete five-language platform with health
+features
+
+Phase 4: Community Launch (Months 10-12)
+Key activities during this phase:
+Beta testing with diverse community members
+Implementation of community features and social sharing
+Integration with fitness wearables and health devices
+Development of premium subscription features
+Local marketing campaign in multiple languages
+Milestone: Public launch of complete platform
+
+Post-Launch Development
+Following the initial 12-month development period, Ripped360 will
+continue to grow with:
+Regular feature updates based on user feedback
+Expansion to additional languages as needed
+Development of enterprise features for healthcare providers and
+fitness businesses
+Enhanced AI capabilities for personalized recommendations
+Potential expansion to additional markets while maintaining
+Delray Beach as headquarters
+
+Contact Information
+For additional information about the Ripped360 platform and our
+grant application, please contact:
+
+Primary Contact
+
+Secondary Contact
+
+Hayes, Co Tyrone
+Founder
+
+Valcena, Co Duveuil
+Founder
+
+ tyrone@ripped360.com
+ [Phone Number]
+
+ duveuil@ripped360.com
+ [Phone Number]
+
+Company Information
+
+ RippedCity Inc / Ripped360
+ [Address in Delray Beach CRA District]
+ Email: info@ripped360.com
+ Website: www.ripped360.com (coming soon)
+Social Media
+
+ @ripped360  @Ripped360Official  @Ripped360App
+
+© 2025 RippedCity Inc. All rights reserved.
+Ripped360™ is a trademark of RippedCity Inc.
+
+
